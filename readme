@@ -1,0 +1,8 @@
+Pitchfork-bestof2014 program
+by mgric
+
+A simple webscrapper that takes pitchforks best of 2014 list and distills it down to a simple list. 
+The code is written in python and uses beautiful soup and requests to process the list.
+
+Pitchforks best tracks of 2014 can be found here:
+http://pitchfork.com/features/staff-lists/9555-the-100-best-tracks-of-2014/
